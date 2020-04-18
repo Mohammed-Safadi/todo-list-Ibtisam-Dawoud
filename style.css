@@ -65,5 +65,10 @@ li:hover {
 	border-bottom:  2px solid #000;
 }
 
-
+.done {
+	color: #69d069 !important;
+}
+.done .btuDone {
+	display: none;
+}
 
