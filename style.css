@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1 {
 	font-size: 36px;
 	font-weight: 20;
@@ -72,3 +73,74 @@ li:hover {
 	display: none;
 }
 
+=======
+h1 {
+	font-size: 36px;
+	font-weight: 20;
+	margin-left: 20px;
+}
+
+
+input[type=text] {
+  padding: 5px;
+  margin-left: 20px;
+  margin-right: 2px;
+  
+}
+
+input[type=submit] {
+  background: #008CBA;
+  font-size: 16px;
+  padding: 4px 18px;
+}
+
+ul {
+	list-style-type: none;
+	width: 900px;
+}
+li {
+	border-bottom:  2px solid #DCDCDC;
+	margin-bottom: 15px;
+	padding-left: 2px;
+	width: 700px;
+
+}
+.skill_input {
+	background: none; 
+	outline: none;
+	color: #000;
+	border: none;
+	width: 300px;
+	font-size: 16px;
+	background-color: red;
+
+}
+
+a {
+	text-decoration: none;
+}
+
+.btuDone {
+    color: lime;
+	
+}
+.btuDelete {
+    color: #E00;
+}
+
+.btuShow {
+	visibility: hidden;
+	float: right;
+	padding-right: 10px;
+}
+
+li:hover .btuShow {
+	visibility: visible;
+}
+li:hover {
+	border-bottom:  2px solid #000;
+}
+
+
+
+>>>>>>> 9aa9591d35b591a161ad31c57322e6dc6f06c554
